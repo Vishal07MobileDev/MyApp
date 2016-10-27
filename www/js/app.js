@@ -32,6 +32,8 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
   //Vishal07MobileDev 
   //https://github.com/Vishal07MobileDev/MyApp.git
 // This is a new line added to test git repository
+// sldfjlsdjfs dfsdjflsdjflsdfj
+
 
   $stateProvider
 

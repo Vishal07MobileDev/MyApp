@@ -30,6 +30,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
   // Set up the various states which the app can be in.
   // Each state's controller can be found in controllers.js
   //Vishal07MobileDev
+  //https://github.com/Vishal07MobileDev/MyApp.git
   $stateProvider
 
   // setup an abstract state for the tabs directive
